@@ -180,7 +180,7 @@ export default function Ecommerce() {
       if (user) {
         usr.name = user.displayName;
         usr.email == user.email;
-        if (usr.email == "mankarsiddhesh732@gmail.com") {
+        if (usr.email == "pawarpanu2003@gmail.com") {
           usr.role = "admin";
         } else {
           usr.role = "user";
